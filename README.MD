@@ -2,6 +2,12 @@
 
 ## **Testing Environments**
 
+## Running
+
+```bash
+cd event-api
+ fastapi -c config.js
+```
 
 ![Blank diagram](https://user-images.githubusercontent.com/1214659/187010647-0b9f0fea-72dd-40d6-ae9c-30b91c41af9c.png)
 
