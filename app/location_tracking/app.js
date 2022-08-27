@@ -96,8 +96,8 @@ function drawAssignLines(incidents, officers) {
       incident.loc.y * UNIT_HEIGHT
     );
     graphics.lineTo(
-      officer.loc.x,
-      officer.loc.y
+      officer.loc.x * UNIT_WIDTH,
+      officer.loc.y * UNIT_HEIGHT
     );
   });
 
